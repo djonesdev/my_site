@@ -12,6 +12,8 @@ body {
     margin: 0 auto;
     color: white;
     border-radius: 9px;
+    position: fixed;
+    top: 0;
 }
 
 h1 {
