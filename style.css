@@ -6,19 +6,22 @@ body {
 /* HEADER BAR */
 
 #head {
-	width: 100%;
+	width: 99%;
     height: 105px;
     background-color: #333;
     margin: 0 auto;
     color: white;
-    border-radius: 9px;
+    border-radius: 15px;
     position: fixed;
     top: 0;
 }
 
 h1 {
 	float: left;
-	margin: 20px;
+    margin: 20px;
+    padding-left: 50px;
+    position: absolute;
+    top: -14px;
 }
 .nav {
     list-style-type: none;
@@ -30,7 +33,7 @@ h1 {
 /* LANDING PAGE */
 
 #mountain {
-	height: 715px;
+	height: 800px;
 	width: 100%;
 	border-radius: 15px;
 	margin-top: -11px;
@@ -207,6 +210,8 @@ footer {
 	background: #333;
 	border-radius: 15px;
 	margin-top: 50px;
+	position: absolute;
+	width: 99%;
 }
 #contact-panel {
 	background: #f2f2f2;
@@ -228,7 +233,7 @@ footer {
 	display: inline-block;
 	list-style-type: none;
 	margin: 25px;
-	padding-top: 20px;
+	padding-top: 13px;
 	text-decoration-style: none;
 }
 
@@ -237,8 +242,7 @@ a {
 	margin:5px;
 }
 
-li:hover {
-	background-color: white
-	color: black;
+a:hover {
+	color: grey;
 }
 
