@@ -1,0 +1,240 @@
+body {
+	font-family: 'oswald', sans-serif;
+	font-size: 1.6em;
+}
+
+/* HEADER BAR */
+
+#head {
+	width: 100%;
+    height: 105px;
+    background-color: #333;
+    margin: 0 auto;
+    color: white;
+    border-radius: 9px;
+}
+
+h1 {
+	float: left;
+	margin: 20px;
+}
+.nav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    display: inline;
+    float: right;
+}
+/* LANDING PAGE */
+
+#mountain {
+	height: 715px;
+	width: 100%;
+	border-radius: 15px;
+	margin-top: -11px;
+}
+
+/* ABOUT ME PAGE */
+#about_me {
+	float: right;
+	font-size: 1.4em;
+	padding-right: 55px;
+}
+
+#about-p {
+	width: 800px;
+    float: left;
+    display: inline-block;
+}
+#aboutmepanel {
+	background: #f2f2f2;
+    height: 554px;
+    border-radius: 15px;
+}
+
+    /* SKILL SET PANEL */
+
+#html {
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: 50px;
+}
+
+#css {
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: 50px;
+	margin-bottom: 18px;
+}
+
+#git {
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: 50px;
+}
+
+#bash {
+	height: 100px;
+	width: 100px;
+	display: block;
+	margin: 50px;	
+	margin-bottom: 20px;
+}
+
+#skill-right {
+	float: right;
+	margin: 100px;
+	padding-right: 200px;
+	margin-top: -25px;
+}
+
+#skill-left {
+	float: left;
+	margin: 100px;
+	padding-left: 200px;
+	margin-top: -25px;
+}
+
+#skill_set {
+	height: 545px;
+	text-align: center;
+}
+
+
+/* SOCIAL MEDIA ICONS */
+
+#facebook {
+	height: 50px;
+	width: 50px;
+	display: inline-block;
+	margin: 10px;
+}
+
+#twitter {
+	height: 52px;
+    width: 54px;
+	display: inline-block;
+	margin: 10px;		
+}
+
+#linkedin {
+	height: 50px;
+	width: 50px;
+	margin: 10px;
+	display: inline-block;
+}
+#email {
+	height: 53px;
+    width: 55px;
+	margin: 10px;
+	display: inline-block;
+}
+
+/* PROJECT PANEL */
+
+#Projects {
+	margin-top: 321px;
+	text-align: center;
+}
+#project1 {
+	width: 500px;
+    margin: 70px;
+    padding-left: 80px;
+    border-color: black;
+}
+#project2 {
+	width: 500px;
+    margin: 70px;
+    border-color: black;
+}
+#Projects-panel {
+	background: #f2f2f2;
+	border-radius: 15px;
+}
+
+.nav-container {
+	float: right;
+	display: inline;
+	list-style-type: none;
+}
+
+
+
+#profile-image {
+	width: 350px;
+	float: left;
+	margin-top: 80px;
+    margin-left: 90px;
+}
+
+
+h2 {
+	text-align: center;
+	padding-top: 10px;
+}
+
+}
+#nav {
+	display: inline-block;
+	list-style-type: none;
+}
+
+#nav {
+	list-style-type: none;
+    display: inline;
+    margin: 100px;
+    word-spacing: 50px;
+}
+
+h4 {
+	float: right;
+    color: white;
+    padding-right: 50px;
+    margin-bottom: 20px;
+    margin: 22px;
+}
+
+/* CONTACT PANEL */
+
+footer {
+	background: #333;
+	border-radius: 15px;
+	margin-top: 50px;
+}
+#contact-panel {
+	background: #f2f2f2;
+    border-radius: 15px;
+}
+
+/* EDUCATION PANEL */
+#work li {
+	margin: 10px;
+	letter-spacing: 2px; 
+}
+
+#edu li {
+	margin: 10px;
+	letter-spacing: 2px;
+}
+
+.nav {
+	display: inline-block;
+	list-style-type: none;
+	margin: 25px;
+	padding-top: 20px;
+	text-decoration-style: none;
+}
+
+a {
+	color: white;
+	margin:5px;
+}
+
+li:hover {
+	background-color: white
+	color: black;
+}
+
